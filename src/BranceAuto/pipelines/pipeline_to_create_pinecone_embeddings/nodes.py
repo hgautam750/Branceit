@@ -7,7 +7,7 @@ from tenacity import (
     wait_random_exponential,
 )
 
-openai_key = "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"
+openai_key = "xxxxxxx"
 openai.api_key = openai_key
 
 
