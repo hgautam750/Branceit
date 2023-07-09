@@ -1,0 +1,7 @@
+kedro==0.17.4
+pandas==1.2.4
+numpy==1.24.4
+openai==0.27.8
+tenacity==8.2.2
+pinecone-client==2.2.2
+tqdm==4.65.0

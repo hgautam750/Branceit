@@ -1,0 +1,5 @@
+recursive-include ../airflow_dags *
+recursive-include ../conf *
+recursive-include ../data *
+recursive-include ../logs *
+recursive-include ../notebooks *

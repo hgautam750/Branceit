@@ -1,0 +1,5 @@
+pinecone_key: "767b3586-ab00-42f6-b2c8-27269a8b442a"
+pinecone_env: "us-central1-gcp"
+query: {"id": 1, "prompt": "What's the meaning of Life?"}
+query1: {"id": 1, "prompt": "What is the cost/fees of a PAN card?"}
+query2: {"id": 1, "prompt": "Can I apply for pan card without Aadhaar?"}
