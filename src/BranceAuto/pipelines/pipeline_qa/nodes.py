@@ -2,7 +2,7 @@ import logging
 import openai
 from ..pipeline_upload_embeddings_to_pinecode_vectordb.nodes import connection_to_pinecone
 
-openai_key = "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"
+openai_key = "xxxxxxxx"
 openai.api_key = openai_key
 
 
