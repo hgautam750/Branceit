@@ -9,11 +9,6 @@ import pandas as pd
 import numpy as np
 from tqdm.auto import tqdm
 
-# pinecone_key = os.getenv("PINECONE_KEY","767b3586-ab00-42f6-b2c8-27269a8b442a")
-# pinecone_env = os.getenv("PINECONE_ENV","us-central1-gcp")
-# openai_key = os.getenv("OPENAI_KEY","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")
-# embedding_path = "./StaticData/embeddings.csv"
-
 
 def connection_to_pinecone(pinecone_key: str, pinecone_env: str):
     logging.info("Initiating connection to pinecone")
